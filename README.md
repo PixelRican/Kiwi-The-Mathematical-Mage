@@ -1,2 +1,2 @@
-# Kiwi the Mathematical Mage
+# Kiwi: The Mathematical Mage
 
