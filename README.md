@@ -1,2 +1,0 @@
-# Kiwi: The Mathematical Mage
-
