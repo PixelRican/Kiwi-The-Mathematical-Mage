@@ -22,10 +22,19 @@ layout_mode = 0
 offset_right = 1600.0
 offset_bottom = 900.0
 
+[node name="Label" type="Label" parent="ColorRect"]
+layout_mode = 0
+offset_left = 1.0
+offset_right = 1601.0
+offset_bottom = 69.0
+theme_override_font_sizes/font_size = 50
+text = "Upgrades:"
+
 [node name="PanelContainer" type="PanelContainer" parent="ColorRect"]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
+offset_left = 1.0
+offset_right = 1601.0
+offset_bottom = 900.0
 
 [node name="TileMap" type="TileMap" parent="ColorRect/PanelContainer"]
 tile_set = ExtResource("2_cpgeo")

@@ -15,4 +15,14 @@ func _on_pause_pressed() -> void:
 
 
 func _on_spell_4_pressed() -> void:
-	print("spell 4 button Pressed")
+	print("casting Spell 4")
+
+
+func _on_spell_1_pressed() -> void:
+	print("casting Spell 1")
+
+func _on_spell_2_pressed() -> void:
+	print("casting Spell 2")
+
+func _on_spell_3_pressed() -> void:
+	print("casting Spell 3")
